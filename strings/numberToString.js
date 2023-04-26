@@ -13,4 +13,4 @@ console.log(numberToString2(1234))
 
 function numberToString2(num) {
     return num.toString();
-}
+} 
